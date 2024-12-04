@@ -1,0 +1,5 @@
+sudo chmod +x Auto_Final.sh  //this env file is getting executed thats why we are putting
+sudo chmod +x infra.sh
+ls -lrt
+fb-key-pair read permission dedo
+chmod 400 fb-key-pair
